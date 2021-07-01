@@ -212,6 +212,7 @@ function App() {
   return (
     <>
     <h2 id="heading">Auto complete for Cities</h2>
+    <h4 id="warning">For Running App on you local machine Please off Browser CORS </h4>
     <div className="container">
       <div className="inputIcon">
         <input id="input" type="text" placeholder="Enter here" onChange={handleChange} value={cityName}

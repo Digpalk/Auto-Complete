@@ -16,6 +16,10 @@ html {
   border: 2px solid black;
 }
 
+#warning{
+  color: red;
+}
+
 
 #heading{
   margin: 15px;
